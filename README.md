@@ -34,8 +34,8 @@ Currently tinkering with **Raspberry Pi Pico 2W** and embedded programming.
 
 | Project | Description |
 |---------|-------------|
-| [**Reception**](https://celebrate.vandervelden.dev) | A wedding reception website built with modern web technologies |
-| [**Kander LC**](https://kandertechnology.com) | iOS and web development studio |
+| [**Reception**](https://celebrate.vandervelden.dev) | A wedding reception website built with Vapor 4 to manage invitations and guests |
+| [**Porks Meal Planner**](https://apps.apple.com/us/app/porks-meal-planner/id6739752101) | Meal Planning Application for iOS, iPadOS, and Vision Pro |
 
 ---
 

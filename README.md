@@ -45,14 +45,6 @@ When I'm not coding, you'll find me hiking trails, playing disc golf, training m
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=halfcaffzach&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <picture>

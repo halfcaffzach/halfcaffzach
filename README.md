@@ -34,7 +34,7 @@ Currently tinkering with **Raspberry Pi Pico 2W** and embedded programming.
 
 | Project | Description |
 |---------|-------------|
-| [**Kander LC**](https:kandertechnology.com) | Company Portfolio Website
+| [**Kander LC**](https://kandertechnology.com) | Company Portfolio Website
 | [**Porks Meal Planner**](https://apps.apple.com/us/app/porks-meal-planner/id6739752101) | Meal Planning Application for iOS, iPadOS, and Vision Pro |
 
 ---
